@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPRING/Spring 개념.md",
+                "file": "DAO/Mybatis.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPRING/Spring 개념.md",
+                "file": "DAO/Mybatis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPRING/Spring 개념.md",
+                "file": "DAO/Mybatis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPRING/Spring 개념.md"
+                "file": "DAO/Mybatis.md"
               }
             }
           },
@@ -197,6 +197,8 @@
   },
   "active": "36893428d05d64df",
   "lastOpenFiles": [
+    "DAO/JDBC.md",
+    "SPRING/Spring 개념.md",
     "SPRING/MVC 방법론.md",
     "HTTP/상태유지.md",
     "obsidian",
@@ -213,7 +215,6 @@
     "DB/식별관계.md",
     "DB/데이터베이스.md",
     "DAO/Mybatis.md",
-    "DAO/JDBC.md",
     "프로그래밍/OOP.md",
     "프로그래밍/Interface.md",
     "프로그래밍/API.md",
@@ -224,7 +225,6 @@
     "프로그래밍/모듈화.md",
     "자료구조/Collection.md",
     "JAVA/2. 연산자.md",
-    "JAVA/1. 값.md",
     "Attaches/Pasted image 20231124133620.png",
     "Attaches/Pasted image 20231124133323.png",
     "Attaches/Pasted image 20231124133236.png",
