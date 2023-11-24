@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP/상태유지.md",
+                "file": "SPRING/Spring 개념.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTP/상태유지.md",
+                "file": "SPRING/Spring 개념.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTP/상태유지.md",
+                "file": "SPRING/Spring 개념.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTP/상태유지.md"
+                "file": "SPRING/Spring 개념.md"
               }
             }
           },
@@ -195,8 +195,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8d92727b749ec3d0",
+  "active": "36893428d05d64df",
   "lastOpenFiles": [
+    "SPRING/MVC 방법론.md",
+    "HTTP/상태유지.md",
     "obsidian",
     "JAVA/Servlet.md",
     "프로그래밍/RENDERING/CSR.md",
@@ -204,7 +206,6 @@
     "프로그래밍/RENDERING/SPA.md",
     "프로그래밍/RENDERING",
     "자료구조/자료구조.md",
-    "HTTP/상태유지.md",
     "DB/View.md",
     "DB/TABLE.md",
     "DB/SQL.md",
@@ -243,7 +244,6 @@
     "자료구조",
     "컴퓨터기초",
     "프로그래밍",
-    "무제 파일 1.canvas",
-    "DB"
+    "무제 파일 1.canvas"
   ]
 }
