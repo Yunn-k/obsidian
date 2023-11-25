@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/SQL.md",
+                "file": "DB/제약조건.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/SQL.md",
+                "file": "DB/제약조건.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/SQL.md",
+                "file": "DB/제약조건.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/SQL.md"
+                "file": "DB/제약조건.md"
               }
             }
           },
@@ -197,9 +197,11 @@
   },
   "active": "f59f536b20c4b2f9",
   "lastOpenFiles": [
+    "DB/JOIN.md",
+    "DB/제약조건.md",
+    "DB/SQL.md",
     "DB/식별관계.md",
     "DB/Transaction.md",
-    "DB/SQL.md",
     "SPRING/Spring 개념.md",
     "DB/데이터베이스.md",
     "JAVA/Servlet.md",
@@ -224,8 +226,6 @@
     "프로그래밍/Interface.md",
     "프로그래밍/API.md",
     "프로그래밍/함수.md",
-    "프로그래밍/프로그래밍 언어.md",
-    "프로그래밍/프로그래밍 개념.md",
     "Attaches/Pasted image 20231124133620.png",
     "Attaches/Pasted image 20231124133323.png",
     "Attaches/Pasted image 20231124133236.png",

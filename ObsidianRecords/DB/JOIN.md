@@ -18,7 +18,7 @@
 - 참조키를 기준으로 일치하는 행만 조인
 - 기준 테이블에 값이 없다면 출력되지 않는다
 
-## 2) Outer join (left Join / right join)
+## 2) Outer join (left Join / right join / full outer join)
 - 참조키를 기준으로 일치하지 않는 행도 조인
 - 기준테이블을 중심으로 다른 테이블이 들어오되, 기준테이블에서 값이 없는 경우도 NULL로 출력된다.
 
