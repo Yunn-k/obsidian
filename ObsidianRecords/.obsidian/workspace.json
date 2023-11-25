@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIEW TEMPLATE/JSP.md",
+                "file": "프로그래밍/REST.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIEW TEMPLATE/JSP.md",
+                "file": "프로그래밍/REST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIEW TEMPLATE/JSP.md",
+                "file": "프로그래밍/REST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIEW TEMPLATE/JSP.md"
+                "file": "프로그래밍/REST.md"
               }
             }
           },
@@ -197,6 +197,10 @@
   },
   "active": "36893428d05d64df",
   "lastOpenFiles": [
+    "Attaches/Pasted image 20231125145820.png",
+    "프로그래밍/Ajax.md",
+    "프로그래밍/REST.md",
+    "VIEW TEMPLATE/JSP.md",
     "DAO/Mybatis.md",
     "DAO/JDBC.md",
     "SPRING/Spring 개념.md",
@@ -221,10 +225,6 @@
     "프로그래밍/함수.md",
     "프로그래밍/프로그래밍 언어.md",
     "프로그래밍/프로그래밍 개념.md",
-    "프로그래밍/추상화.md",
-    "프로그래밍/모듈화.md",
-    "자료구조/Collection.md",
-    "JAVA/2. 연산자.md",
     "Attaches/Pasted image 20231124133620.png",
     "Attaches/Pasted image 20231124133323.png",
     "Attaches/Pasted image 20231124133236.png",
