@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAO/Mybatis.md",
+                "file": "VIEW TEMPLATE/JSP.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAO/Mybatis.md",
+                "file": "VIEW TEMPLATE/JSP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAO/Mybatis.md",
+                "file": "VIEW TEMPLATE/JSP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAO/Mybatis.md"
+                "file": "VIEW TEMPLATE/JSP.md"
               }
             }
           },
@@ -197,6 +197,7 @@
   },
   "active": "36893428d05d64df",
   "lastOpenFiles": [
+    "DAO/Mybatis.md",
     "DAO/JDBC.md",
     "SPRING/Spring 개념.md",
     "SPRING/MVC 방법론.md",
@@ -214,7 +215,6 @@
     "DB/정규화.md",
     "DB/식별관계.md",
     "DB/데이터베이스.md",
-    "DAO/Mybatis.md",
     "프로그래밍/OOP.md",
     "프로그래밍/Interface.md",
     "프로그래밍/API.md",
