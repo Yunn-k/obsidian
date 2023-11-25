@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Servlet.md",
+                "file": "DB/SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Servlet.md",
+                "file": "DB/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Servlet.md",
+                "file": "DB/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Servlet.md"
+                "file": "DB/SQL.md"
               }
             }
           },
@@ -197,7 +197,11 @@
   },
   "active": "f59f536b20c4b2f9",
   "lastOpenFiles": [
+    "DB/식별관계.md",
+    "DB/Transaction.md",
+    "DB/SQL.md",
     "SPRING/Spring 개념.md",
+    "DB/데이터베이스.md",
     "JAVA/Servlet.md",
     "프로그래밍/REST.md",
     "Attaches/Pasted image 20231125145820.png",
@@ -215,10 +219,7 @@
     "자료구조/자료구조.md",
     "DB/View.md",
     "DB/TABLE.md",
-    "DB/SQL.md",
     "DB/정규화.md",
-    "DB/식별관계.md",
-    "DB/데이터베이스.md",
     "프로그래밍/OOP.md",
     "프로그래밍/Interface.md",
     "프로그래밍/API.md",

@@ -12,7 +12,7 @@
 - drop
 
 # DML
-- Database Malfunction Language
+- Database Manipulation Language
 - 테이블 내 데이터(레코드)의 생성/삽입/수정/삭제를 제어
 - select from
 - insert into
@@ -20,6 +20,14 @@
 - delete from where
 - select from where group by having order by 순으로 작성
 - from where group by having select order by 순으로 작동
+
+## Where / Having의 차이
+- where은 from으로 조회된 데이터를 조건을 통해 영역을 제한한다
+- having은 group by를 통해 
+
+
+## Group by
+- 데이터를 그룹별로 묶기위한 그룹함수
 
 # DCL
 - Database Control Language
