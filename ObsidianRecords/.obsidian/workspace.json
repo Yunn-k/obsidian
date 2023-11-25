@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/REST.md",
+                "file": "SPRING/Spring 개념.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/REST.md",
+                "file": "JAVA/Servlet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/REST.md",
+                "file": "JAVA/Servlet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/REST.md"
+                "file": "JAVA/Servlet.md"
               }
             }
           },
@@ -195,19 +195,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "36893428d05d64df",
+  "active": "f59f536b20c4b2f9",
   "lastOpenFiles": [
+    "SPRING/Spring 개념.md",
+    "JAVA/Servlet.md",
+    "프로그래밍/REST.md",
     "Attaches/Pasted image 20231125145820.png",
     "프로그래밍/Ajax.md",
-    "프로그래밍/REST.md",
     "VIEW TEMPLATE/JSP.md",
     "DAO/Mybatis.md",
     "DAO/JDBC.md",
-    "SPRING/Spring 개념.md",
     "SPRING/MVC 방법론.md",
     "HTTP/상태유지.md",
     "obsidian",
-    "JAVA/Servlet.md",
     "프로그래밍/RENDERING/CSR.md",
     "프로그래밍/RENDERING/SSR.md",
     "프로그래밍/RENDERING/SPA.md",
@@ -234,7 +234,6 @@
     "Attaches/Pasted image 20231123120423.png",
     "Attaches/Pasted image 20231123114621.png",
     "Attaches/Pasted image 20231123114606.png",
-    "Attaches/Pasted image 20231122220126.png",
     "HTTP",
     "Tomcat",
     "MAVEN",
